@@ -57,9 +57,9 @@
 1. Mirrored User-interactions across all devices.
 2. Customizable preview layout to suit all your needs.
 3. One handy elements inspector for all devices in preview.
-4. 30+ built-in device profiles with option to add custom devices.
-5. One-click screenshot all your devices.
-6. Hot reloading supported for developers.
+4. 30+ built-in device profiles with the option to add custom devices.
+5. One-click screenshot of all your devices.
+6. Hot reloading is supported for developers.
 
 Please visit the website to know more about the application - https://responsively.app
 
